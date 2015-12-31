@@ -7,7 +7,7 @@ using System.Collections.Generic;
 namespace CommandLineTests
 {
     [TestClass]
-    public class UnitTest1
+    public class CommandLineTest
     {
         [TestMethod]
         public void TestOneArg()
